@@ -5,7 +5,8 @@
 	"Base": {
 		"surfaceSize": 4000,
 		"surfaceGravity": 80,
-		"gravityFallOff": "inverseSquared"
+		"gravityFallOff": "inverseSquared",
+		"hasFluidDetector": false
 	},
 	"Orbit": {
 		"primaryBody": "Barycenter",

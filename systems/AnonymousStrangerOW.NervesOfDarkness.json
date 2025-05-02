@@ -12,5 +12,26 @@
     "rightPath": "assets/Texture/Skybox/right.png",
     "bottomPath": "assets/Texture/Skybox/bottom.png",
     "topPath": "assets/Texture/Skybox/top.png"
+  },
+  "Vessel": {
+    "hasZeroGravityVolume": true,
+    "hasPhysics": true,
+    "coords": {
+      "x": [ 4, 0, 3, 1 ],
+      "y": [ 5, 4, 3, 2, 1, 0 ],
+      "z": [ 4, 0, 1, 2, 3 ]
+    },
+    "vesselSpawn": {
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 40000
+      },
+      "rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      }
+    }
   }
 }

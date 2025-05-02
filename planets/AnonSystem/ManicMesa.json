@@ -18,7 +18,7 @@
 	"Orbit": {
 		"primaryBody": "Doomed Daylight",
 		"semiMajorAxis": 8000,
-		"eccentricity": 0.9,
+		"eccentricity": 0.8,
 		"trueAnomaly":  180
 	},
 	"Atmosphere": {
@@ -41,7 +41,7 @@
 	"Base": {
 		"surfaceGravity": 10,
 		"surfaceSize": 100,
-		"hasFluidDetector": false
+		"hasFluidDetector": true
 	},
 	"MapMarker": {
 		"enabled": true

@@ -8,7 +8,7 @@
 		"gravityFallOff": "inverseSquared"
 	},
 	"Orbit": {
-		"primaryBody": "Barycenter",
+		"primaryBody": "Devourer Daylight Barycenter",
 		"semiMajorAxis": 8000,
 		"trueAnomaly": 180,
 		"inclination": 45,

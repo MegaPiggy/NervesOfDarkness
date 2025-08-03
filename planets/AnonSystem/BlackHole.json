@@ -9,7 +9,7 @@
 		"hasFluidDetector": false
 	},
 	"Orbit": {
-		"primaryBody": "Barycenter",
+		"primaryBody": "Devourer Daylight Barycenter",
 		"semiMajorAxis": 5000,
 		"trueAnomaly": 0,
 		"isMoon": true,

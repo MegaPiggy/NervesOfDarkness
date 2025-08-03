@@ -15,23 +15,6 @@
 		"isMoon": true,
 		"showOrbitLine": false
 	},
-	"Star": {
-		"lifespan": 999,
-		"size": 800,
-		"lightRadius": 60000,
-		"tint": {
-			"r": 94,
-			"g": 115,
-			"b": 255,
-			"a": 255
-		},
-		"lightTint": {
-			"r": 0,
-			"g": 0,
-			"b": 0,
-			"a": 255
-		}
-	},
 	"MapMarker": {
 		"enabled": true
 	},
@@ -40,6 +23,7 @@
 			{
 				"horizonRadius": 1600,
 				"distortRadius": 3200,
+				"renderQueueOverride": 3001,
 				"type": "blackHole"
 			}
 		]
